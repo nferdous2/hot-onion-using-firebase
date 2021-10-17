@@ -1,0 +1,22 @@
+.login-form{
+    background-color: rgb(8, 42, 65);
+    color: aliceblue;
+}
+.btn-log{
+background-color: rgba(168, 78, 164, 0.616);
+color: rgb(252, 239, 239);
+font-weight: 500;
+border-radius: 10px;
+padding: 10px;
+margin-bottom: 15px;
+margin-right: 15px;
+}
+.btn-log:hover{
+color: aliceblue;
+background-color: rgb(243, 20, 143);
+}
+.forget{
+    text-decoration: none;
+    color: rgb(226, 239, 243);
+    font-weight: 500;
+}

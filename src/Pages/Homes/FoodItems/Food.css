@@ -1,0 +1,20 @@
+.menubar{
+    text-align: center;
+}
+
+.menubar nav {
+    background-color: rgb(240, 224, 224);
+    line-height: 40px;
+}
+.menubar nav a{
+    text-decoration: none;
+    color: rgb(29, 24, 24);
+    margin-right: 20px;
+    padding: 5px;
+    font-size: 20px;
+}
+.menubar nav a:hover{
+    background-color: rgba(250, 218, 242, 0.795);
+    color: purple;
+    font-weight: 700;
+}

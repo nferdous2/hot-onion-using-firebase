@@ -1,0 +1,12 @@
+.banner-section{
+    background-image: url(../../../images/bannerbackground.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 80vh;
+}
+.button{
+    background-color: rgba(207, 25, 86, 0.849);
+    color: aliceblue;
+    font-weight: 700;  
+}
